@@ -1,0 +1,18 @@
+Resum comanda.
+Dades Entitat responsable:
+Nom: Principal
+Codi identificatiu: 0001
+Articles.
+A * 60
+
+B * 30
+
+A * 60
+
+B * 30
+
+A * 60
+
+B * 30
+
+Preu final: 49500

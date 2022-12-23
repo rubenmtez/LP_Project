@@ -1,0 +1,8 @@
+Resum comanda.
+Dades Entitat responsable:
+Nom: Principal
+Codi identificatiu: 0001
+Articles.
+El paquet no pasa els test de qualitat.
+Es redueix el cost del paquet en un 1.1
+Preu final: 36300

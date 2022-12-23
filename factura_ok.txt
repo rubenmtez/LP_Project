@@ -1,0 +1,14 @@
+Resum comanda.
+Dades Entitat responsable:
+Nom: Principal
+Codi identificatiu: 1234F
+Articles.
+INF_A * 10
+
+INF_B * 5
+
+MTB_A * 10
+
+MTB_C * 10
+
+Preu final: 100
